@@ -1,0 +1,3027 @@
+European Parliament
+
+
+2019-2024
+
+
+TEXTS ADOPTED
+
+
+P9_TA(2024)0138
+
+
+Artificial Intelligence Act
+
+
+European Parliament legislative resolution of 13 March 2024 on the proposal for a
+
+
+regulation of the European Parliament and of the Council on laying down harmonised
+
+
+rules on Artificial Intelligence (Artificial Intelligence Act) and amending certain Union
+
+
+Legislative Acts (COM(2021)0206 – C9-0146/2021 – 2021/0106(COD))
+
+
+(Ordinary legislative procedure: first reading)
+
+
+The European Parliament,
+
+
+– having regard to the Commission proposal to Parliament and the Council
+
+
+(COM(2021)0206),
+
+
+– having regard to Article 294(2) and Articles 16 and 114 of the Treaty on the
+
+
+Functioning of the European Union, pursuant to which the Commission submitted the
+
+
+proposal to Parliament (C9-0146/2021),
+
+
+– having regard to Article 294(3) of the Treaty on the Functioning of the European Union,
+
+
+– having regard to the opinion of the European Central Bank of 29 December 20211,
+
+
+– having regard to the opinion of the European Economic and Social Committee of 22
+
+
+September 20212,
+
+
+– having regard to the provisional agreement approved by the committees responsible
+
+
+under Rule 74(4) of its Rules of Procedure and the undertaking given by the Council
+
+
+representative by letter of 2 February 2024 to approve Parliament’s position, in
+
+
+accordance with Article 294(4) of the Treaty on the Functioning of the European Union,
+
+
+– having regard to Rule 59 of its Rules of Procedure,
+
+
+– having regard to the joint deliberations of the Committee on Internal Market and
+
+
+Consumer Protection and the Committee on Civil Liberties, Justice and Home Affairs
+
+
+under Rule 58 of the Rules of Procedure,
+
+
+– having regard to the opinion of the Committee on Industry, Research and Energy, the
+
+
+Committee on Culture and Education, the Committee on Legal Affairs, the Committee
+
+
+1 OJ C 115, 11.3.2022, p. 5.
+
+
+2 OJ C 517, 22.12.2021, p. 56.
+
+
+on the Environment, Public Health and Food Safety and the Committee on Transport
+
+
+and Tourism,
+
+
+– having regard to the report of the Committee on Internal Market and Consumer
+
+
+Protection and the Committee on Civil Liberties, Justice and Home Affairs (A9-
+
+
+0188/2023),
+
+
+1. Adopts its position at first reading hereinafter set out3;
+
+
+2. Calls on the Commission to refer the matter to Parliament again if it replaces,
+
+
+substantially amends or intends to substantially amend its proposal;
+
+
+3. Instructs its President to forward its position to the Council, the Commission and the
+
+
+national parliaments.
+
+
+3 This position replaces the amendments adopted on 14 June 2023 (Texts adopted,
+
+
+P9_TA(2023)0236).
+
+
+P9_TC1-COD(2021)0106
+
+
+Position of the European Parliament adopted at first reading on 13 March 2024 with a view to
+
+
+the adoption of Regulation (EU) 2024/… of the European Parliament and of the Council
+
+
+laying down harmonised rules on artificial intelligence and amending Regulations (EC) No
+
+
+300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU)
+
+
+2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial
+
+
+Intelligence Act)
+
+
+(Text with EEA relevance)
+
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 16
+
+
+and 114 thereof,
+
+
+Having regard to the proposal from the European Commission,
+
+
+After transmission of the draft legislative act to the national parliaments,
+
+
+Having regard to the opinion of the European Economic and Social Committee1,
+
+
+Having regard to the opinion of the European Central Bank2,
+
+
+Having regard to the opinion of the Committee of the Regions3,
+
+
+Acting in accordance with the ordinary legislative procedure4,
+
+
+1 OJ C 517, 22.12.2021, p. 56.
+
+
+2 OJ C 115, 11.3.2022, p. 5.
+
+
+3 OJ C 97, 28.2.2022, p. 60.
+
+
+4 Position of the European Parliament of 13 March 2024.
+
+
+Whereas:
+
+
+(1) The purpose of this Regulation is to improve the functioning of the internal market by
+
+
+laying down a uniform legal framework in particular for the development, the placing on
+
+
+the market, the putting into service and the use of artificial intelligence systems (AI
+
+
+systems) in the Union, in accordance with Union values, to promote the uptake of human
+
+
+centric and trustworthy artificial intelligence (AI) while ensuring a high level of
+
+
+protection of health, safety, fundamental rights as enshrined in the Charter of
+
+
+Fundamental Rights of the European Union (the ‘Charter’), including democracy, the
+
+
+rule of law and environmental protection, to protect against the harmful effects of AI
+
+
+systems in the Union, and to support innovation. This Regulation ensures the free
+
+
+movement, cross-border, of AI-based goods and services, thus preventing Member States
+
+
+from imposing restrictions on the development, marketing and use of AI systems, unless
+
+
+explicitly authorised by this Regulation.
+
+
+(2) This Regulation should be applied in accordance with the values of the Union enshrined
+
+
+as in the Charter, facilitating the protection of natural persons, undertakings,
+
+
+democracy, the rule of law and environmental protection, while boosting innovation and
+
+
+employment and making the Union a leader in the uptake of trustworthy AI.
+
+
+(3) ▌ AI systems ▌ can be easily deployed in a large variety of sectors of the economy and
+
+
+many parts of society, including across borders, and can easily circulate throughout the
+
+
+Union. Certain Member States have already explored the adoption of national rules to
+
+
+ensure that AI is trustworthy and safe and is developed and used in accordance with
+
+
+fundamental rights obligations. Diverging national rules may lead to the fragmentation of
+
+
+the internal market and may decrease legal certainty for operators that develop, import or
+
+
+use AI systems. A consistent and high level of protection throughout the Union should
+
+
+therefore be ensured in order to achieve trustworthy AI, while divergences hampering the
+
+
+free circulation, innovation, deployment and the uptake of AI systems and related
+
+
+products and services within the internal market should be prevented by laying down
+
+
+uniform obligations for operators and guaranteeing the uniform protection of overriding
+
+
+reasons of public interest and of rights of persons throughout the internal market on the
+
+
+basis of Article 114 of the Treaty on the Functioning of the European Union (TFEU). To
+
+
+the extent that this Regulation contains specific rules on the protection of individuals with
+
+
+regard to the processing of personal data concerning restrictions of the use of AI systems
+
+
+for remote biometric identification for the purpose of law enforcement, of the use of AI
+
+
+systems for risk assessments of natural persons for the purpose of law enforcement and
+
+
+of the use of AI systems of biometric categorisation for the purpose of law enforcement, it
+
+
+is appropriate to base this Regulation, in so far as those specific rules are concerned, on
+
+
+Article 16 TFEU. In light of those specific rules and the recourse to Article 16 TFEU, it is
+
+
+appropriate to consult the European Data Protection Board.
+
+
+(4) AI is a fast evolving family of technologies that contributes to a wide array of economic,
+
+
+environmental and societal benefits across the entire spectrum of industries and social
+
+
+activities. By improving prediction, optimising operations and resource allocation, and
+
+
+personalising digital solutions available for individuals and organisations, the use of AI can
+
+
+provide key competitive advantages to undertakings and support socially and
+
+
+environmentally beneficial outcomes, for example in healthcare, agriculture, food safety,
+
+
+education and training, media, sports, culture, infrastructure management, energy,
+
+
+transport and logistics, public services, security, justice, resource and energy efficiency,
+
+
+environmental monitoring, the conservation and restoration of biodiversity and
+
+
+ecosystems and climate change mitigation and adaptation.
+
+
+(5) At the same time, depending on the circumstances regarding its specific application, use,
+
+
+and level of technological development, AI may generate risks and cause harm to public
+
+
+interests and fundamental rights that are protected by Union law. Such harm might be
+
+
+material or immaterial, including physical, psychological, societal or economic harm.
+
+
+(6) Given the major impact that AI can have on society and the need to build trust, it is vital
+
+
+for AI and its regulatory framework to be developed in accordance with Union values as
+
+
+enshrined in Article 2 of the Treaty on European Union (TEU), the fundamental rights
+
+
+and freedoms enshrined in the Treaties and, pursuant to Article 6 TEU, the Charter. As
+
+
+a pre-requisite, AI should be a human-centric technology. It should serve as a tool for
+
+
+people, with the ultimate aim of increasing human well-being.
+
+
+(7) In order to ensure a consistent and high level of protection of public interests as regards
+
+
+health, safety and fundamental rights, common rules for high-risk AI systems should be
+
+
+established. Those rules should be consistent with the Charter, non-discriminatory and
+
+
+in line with the Union’s international trade commitments. They should also take into
+
+
+account the European Declaration on Digital Rights and Principles for the Digital
+
+
+Decade and the Ethics guidelines for trustworthy AI of the High-Level Expert Group on
+
+
+Artificial Intelligence (AI HLEG).
+
+
+(8) A Union legal framework laying down harmonised rules on AI is therefore needed to foster
+
+
+the development, use and uptake of AI in the internal market that at the same time meets a
+
+
+high level of protection of public interests, such as health and safety and the protection of
+
+
+fundamental rights, including democracy, the rule of law and environmental protection
+
+
+as recognised and protected by Union law. To achieve that objective, rules regulating the
+
+
+placing on the market, the putting into service and the use of certain AI systems should be
+
+
+laid down, thus ensuring the smooth functioning of the internal market and allowing those
+
+
+systems to benefit from the principle of free movement of goods and services. Those rules
+
+
+should be clear and robust in protecting fundamental rights, supportive of new
+
+
+innovative solutions, enabling a European ecosystem of public and private actors
+
+
+creating AI systems in line with Union values and unlocking the potential of the digital
+
+
+transformation across all regions of the Union. By laying down those rules as well as
+
+
+measures in support of innovation with a particular focus on small and medium
+
+
+enterprises (SMEs), including startups, this Regulation supports the objective of
+
+
+promoting the European human-centric approach to AI and being a global leader in the
+
+
+development of secure, trustworthy and ethical AI ▌ as stated by the European Council5,
+
+
+and it ensures the protection of ethical principles, as specifically requested by the European
+
+
+Parliament6.
+
+
+5 European Council, Special meeting of the European Council (1 and 2 October 2020) –
+
+
+Conclusions, EUCO 13/20, 2020, p. 6.
+
+
+6 European Parliament resolution of 20 October 2020 with recommendations to the
+
+
+Commission on a framework of ethical aspects of artificial intelligence, robotics and related
+
+
+technologies, 2020/2012(INL).
+
+
+(9) Harmonised rules applicable to the placing on the market, the putting into service and the
+
+
+use of high-risk AI systems should be laid down consistently with Regulation (EC) No
+
+
+765/2008 of the European Parliament and of the Council7, Decision No 768/2008/EC of
+
+
+the European Parliament and of the Council8 and Regulation (EU) 2019/1020 of the
+
+
+European Parliament and of the Council9 (New Legislative Framework). The harmonised
+
+
+rules laid down in this Regulation should apply across sectors and, in line with the New
+
+
+Legislative Framework, should be without prejudice to existing Union law, in particular
+
+
+on data protection, consumer protection, fundamental rights, employment, and
+
+
+protection of workers, and product safety, to which this Regulation is complementary.
+
+
+7 Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008
+
+
+setting out the requirements for accreditation and repealing Regulation (EEC) No 339/93
+
+
+(OJ L 218, 13.8.2008, p. 30).
+
+
+8 Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on
+
+
+a common framework for the marketing of products, and repealing Council Decision
+
+
+93/465/EEC (OJ L 218, 13.8.2008, p. 82).
+
+
+9 Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019
+
+
+on market surveillance and compliance of products and amending Directive 2004/42/EC and
+
+
+Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1).
+
+
+As a consequence, all rights and remedies provided for by such Union law to consumers,
+
+
+and other persons on whom AI systems may have a negative impact, including as
+
+
+regards the compensation of possible damages pursuant to Council Directive
+
+
+85/374/EEC10 remain unaffected and fully applicable. Furthermore, in the context of
+
+
+employment and protection of workers, this Regulation should therefore not affect
+
+
+Union law on social policy and national labour law, in compliance with Union law,
+
+
+concerning employment and working conditions, including health and safety at work
+
+
+and the relationship between employers and workers. This Regulation should also not
+
+
+affect the exercise of fundamental rights as recognised in the Member States and at
+
+
+Union level, including the right or freedom to strike or to take other action covered by
+
+
+the specific industrial relations systems in Member States as well as the right to
+
+
+negotiate, to conclude and enforce collective agreements or to take collective action in
+
+
+accordance with national law.
+
+
+10 Council Directive 85/374/EEC of 25 July 1985 on the approximation of the laws,
+
+
+regulations and administrative provisions of the Member States concerning liability for
+
+
+defective products (OJ L 210, 7.8.1985, p. 29).
+
+
+This Regulation should not affect the provisions aiming to improve working conditions
+
+
+in platform work laid down in a Directive of the European Parliament and of the
+
+
+Council on improving working conditions in platform work. Moreover, this Regulation
+
+
+aims to strengthen the effectiveness of such existing rights and remedies by establishing
+
+
+specific requirements and obligations, including in respect of the transparency, technical
+
+
+documentation and record-keeping of AI systems. Furthermore, the obligations placed
+
+
+on various operators involved in the AI value chain under this Regulation should apply
+
+
+without prejudice to national law, in compliance with Union law, having the effect of
+
+
+limiting the use of certain AI systems where such law falls outside the scope of this
+
+
+Regulation or pursues legitimate public interest objectives other than those pursued by
+
+
+this Regulation. For example, national labour law and law on the protection of minors,
+
+
+namely persons below the age of 18, taking into account the UNCRC General Comment
+
+
+No 25 (2021) on children’s rights in relation to the digital environment, insofar as they
+
+
+are not specific to AI systems and pursue other legitimate public interest objectives,
+
+
+should not be affected by this Regulation.
+
+
+(10) The fundamental right to the protection of personal data is safeguarded in particular by
+
+
+Regulations (EU) 2016/67911 and (EU) 2018/172512 of the European Parliament and of
+
+
+the Council and Directive (EU) 2016/680 of the European Parliament and of the
+
+
+Council13. Directive 2002/58/EC of the European Parliament and of the Council14
+
+
+additionally protects private life and the confidentiality of communications, including by
+
+
+way of providing conditions for any storing of personal and non-personal data in, and
+
+
+access from, terminal equipment. Those Union legal acts provide the basis for
+
+
+sustainable and responsible data processing, including where data sets include a mix of
+
+
+personal and non-personal data. This Regulation does not seek to affect the application
+
+
+of existing Union law governing the processing of personal data, including the tasks and
+
+
+powers of the independent supervisory authorities competent to monitor compliance with
+
+
+those instruments.
+
+
+11 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016
+
+
+on the protection of natural persons with regard to the processing of personal data and on the
+
+
+free movement of such data, and repealing Directive 95/46/EC (General Data Protection
+
+
+Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+
+12 Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October
+
+
+2018 on the protection of natural persons with regard to the processing of personal data by
+
+
+the Union institutions, bodies, offices and agencies and on the free movement of such data,
+
+
+and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295,
+
+
+21.11.2018, p. 39).
+
+
+13 Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on
+
+
+the protection of natural persons with regard to the processing of personal data by competent
+
+
+authorities for the purposes of the prevention, investigation, detection or prosecution of
+
+
+criminal offences or the execution of criminal penalties, and on the free movement of such
+
+
+data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89).
+
+
+14 Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002
+
+
+concerning the processing of personal data and the protection of privacy in the electronic
+
+
+communications sector (Directive on privacy and electronic communications) (OJ L 201,
+
+
+31.7.2002, p. 37).
+
+
+It also does not affect the obligations of providers and deployers of AI systems in their
+
+
+role as data controllers or processors stemming from Union or national law on the
+
+
+protection of personal data in so far as the design, the development or the use of AI
+
+
+systems involves the processing of personal data. It is also appropriate to clarify that
+
+
+data subjects continue to enjoy all the rights and guarantees awarded to them by such
+
+
+Union law, including the rights related to solely automated individual decision-making,
+
+
+including profiling. Harmonised rules for the placing on the market, the putting into
+
+
+service and the use of AI systems established under this Regulation should facilitate the
+
+
+effective implementation and enable the exercise of the data subjects’ rights and other
+
+
+remedies guaranteed under Union law on the protection of personal data and of other
+
+
+fundamental rights.
+
+
+(11) This Regulation should be without prejudice to the provisions regarding the liability of
+
+
+providers of intermediary services as set out in Regulation (EU) 2022/2065 of the
+
+
+European Parliament and of the Council15.
+
+
+15 Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October
+
+
+2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital
+
+
+Services Act) (OJ L 277, 27.10.2022, p. 1).
+
+
+(12) The notion of ‘AI system’ in this Regulation should be clearly defined and should be
+
+
+closely aligned with the work of international organisations working on AI to ensure
+
+
+legal certainty, facilitate international convergence and wide acceptance, while providing
+
+
+the flexibility to accommodate the rapid technological developments in this field.
+
+
+Moreover, the definition should be based on key characteristics of AI systems that
+
+
+distinguish it from simpler traditional software systems or programming approaches and
+
+
+should not cover systems that are based on the rules defined solely by natural persons to
+
+
+automatically execute operations. A key characteristic of AI systems is their capability to
+
+
+infer. This capability to infer refers to the process of obtaining the outputs, such as
+
+
+predictions, content, recommendations, or decisions, which can influence physical and
+
+
+virtual environments, and to a capability of AI systems to derive models or algorithms, or
+
+
+both, from inputs or data. The techniques that enable inference while building an AI
+
+
+system include machine learning approaches that learn from data how to achieve certain
+
+
+objectives, and logic- and knowledge-based approaches that infer from encoded
+
+
+knowledge or symbolic representation of the task to be solved. The capacity of an AI
+
+
+system to infer transcends basic data processing by enabling learning, reasoning or
+
+
+modelling. The term ‘machine-based’ refers to the fact that AI systems run on machines.
+
+
+The reference to explicit or implicit objectives underscores that AI systems can operate
+
+
+according to explicit defined objectives or to implicit objectives. The objectives of the AI
+
+
+system may be different from the intended purpose of the AI system in a specific context.
+
+
+For the purposes of this Regulation, environments should be understood to be the
+
+
+contexts in which the AI systems operate, whereas outputs generated by the AI system
+
+
+reflect different functions performed by AI systems and include predictions, content,
+
+
+recommendations or decisions. AI systems are designed to operate with varying levels of
+
+
+autonomy, meaning that they have some degree of independence of actions from human
+
+
+involvement and of capabilities to operate without human intervention. The adaptiveness
+
+
+that an AI system could exhibit after deployment, refers to self-learning capabilities,
+
+
+allowing the system to change while in use. AI systems can be used on a stand-alone
+
+
+basis or as a component of a product, irrespective of whether the system is physically
+
+
+integrated into the product (embedded) or serves the functionality of the product without
+
+
+being integrated therein (non-embedded).
+
+
+(13) The notion of ‘deployer’ referred to in this Regulation should be interpreted as any
+
+
+natural or legal person, including a public authority, agency or other body, using an AI
+
+
+system under its authority, except where the AI system is used in the course of a personal
+
+
+non-professional activity. Depending on the type of AI system, the use of the system may
+
+
+affect persons other than the deployer.
+
+
+(14) The notion of ‘biometric data’ used in this Regulation ▌ should be interpreted in light of
+
+
+the notion of biometric data as defined in Article 4, point (14) of Regulation (EU)
+
+
+2016/679, Article 3, point (18) of Regulation (EU) 2018/1725 and Article 3, point (13) of
+
+
+Directive (EU) 2016/680. Biometric data can allow for the authentication, identification
+
+
+or categorisation of natural persons and for the recognition of emotions of natural
+
+
+persons.
+
+
+(15) The notion of ‘biometric identification’ referred to in this Regulation should be defined
+
+
+as the automated recognition of physical, physiological and behavioural human features
+
+
+such as the face, eye movement, body shape, voice, prosody, gait, posture, heart rate,
+
+
+blood pressure, odour, keystrokes characteristics, for the purpose of establishing an
+
+
+individual’s identity by comparing biometric data of that individual to stored biometric
+
+
+data of individuals in a reference database, irrespective of whether the individual has
+
+
+given its consent or not. This excludes AI systems intended to be used for biometric
+
+
+verification, which includes authentication, whose sole purpose is to confirm that a
+
+
+specific natural person is the person he or she claims to be and to confirm the identity of
+
+
+a natural person for the sole purpose of having access to a service, unlocking a device or
+
+
+having security access to premises.
+
+
+(16) The notion of ‘biometric categorisation’ referred to in this Regulation should be defined
+
+
+as assigning natural persons to specific categories on the basis of their biometric data.
+
+
+Such specific categories can relate to aspects such as sex, age, hair colour, eye colour,
+
+
+tattoos, behavioural or personality traits, language, religion, membership of a national
+
+
+minority, sexual or political orientation. This does not include biometric categorisation
+
+
+systems that are a purely ancillary feature intrinsically linked to another commercial
+
+
+service, meaning that the feature cannot, for objective technical reasons, be used without
+
+
+the principal service, and the integration of that feature or functionality is not a means
+
+
+to circumvent the applicability of the rules of this Regulation. For example, filters
+
+
+categorising facial or body features used on online marketplaces could constitute such
+
+
+an ancillary feature as they can be used only in relation to the principal service which
+
+
+consists in selling a product by allowing the consumer to preview the display of the
+
+
+product on him or herself and help the consumer to make a purchase decision. Filters
+
+
+used on online social network services which categorise facial or body features to allow
+
+
+users to add or modify pictures or videos could also be considered to be ancillary feature
+
+
+as such filter cannot be used without the principal service of the social network services
+
+
+consisting in the sharing of content online.
+
+
+(17) The notion of ‘remote biometric identification system’ referred to in this Regulation should
+
+
+be defined functionally, as an AI system intended for the identification of natural persons
+
+
+without their active involvement, typically at a distance, through the comparison of a
+
+
+person’s biometric data with the biometric data contained in a reference database,
+
+
+irrespectively of the particular technology, processes or types of biometric data used.
+
+
+Such remote biometric identification systems are typically used to perceive multiple
+
+
+persons or their behaviour simultaneously in order to facilitate significantly the
+
+
+identification of natural persons without their active involvement. This excludes AI
+
+
+systems intended to be used for biometric verification, which includes authentication, the
+
+
+sole purpose of which is to confirm that a specific natural person is the person he or she
+
+
+claims to be and to confirm the identity of a natural person for the sole purpose of
+
+
+having access to a service, unlocking a device or having security access to premises.
+
+
+That exclusion is justified by the fact that such systems are likely to have a minor impact
+
+
+on fundamental rights of natural persons compared to the remote biometric
+
+
+identification systems which may be used for the processing of the biometric data of a
+
+
+large number of persons without their active involvement. In the case of ‘real-time’
+
+
+systems, the capturing of the biometric data, the comparison and the identification occur all
+
+
+instantaneously, near-instantaneously or in any event without a significant delay. In this
+
+
+regard, there should be no scope for circumventing the rules of this Regulation on the ‘real-
+
+
+time’ use of the AI systems concerned by providing for minor delays. ‘Real-time’ systems
+
+
+involve the use of ‘live’ or ‘near-live’ material, such as video footage, generated by a
+
+
+camera or other device with similar functionality. In the case of ‘post’ systems, in contrast,
+
+
+the biometric data has already been captured and the comparison and identification occur
+
+
+only after a significant delay. This involves material, such as pictures or video footage
+
+
+generated by closed circuit television cameras or private devices, which has been generated
+
+
+before the use of the system in respect of the natural persons concerned.
+
+
+(18) The notion of ‘emotion recognition system’ referred to in this Regulation should be
+
+
+defined as an AI system for the purpose of identifying or inferring emotions or
+
+
+intentions of natural persons on the basis of their biometric data. The notion refers to
+
+
+emotions or intentions such as happiness, sadness, anger, surprise, disgust,
+
+
+embarrassment, excitement, shame, contempt, satisfaction and amusement. It does not
+
+
+include physical states, such as pain or fatigue, including, for example, systems used in
+
+
+detecting the state of fatigue of professional pilots or drivers for the purpose of
+
+
+preventing accidents. This does also not include the mere detection of readily apparent
+
+
+expressions, gestures or movements, unless they are used for identifying or inferring
+
+
+emotions. Those expressions can be basic facial expressions, such as a frown or a smile,
+
+
+or gestures such as the movement of hands, arms or head, or characteristics of a
+
+
+person’s voice, such as a raised voice or whispering.
+
+
+(19) For the purposes of this Regulation the notion of ‘publicly accessible space’ should be
+
+
+understood as referring to any physical space that is accessible to an undetermined
+
+
+number of natural persons, and irrespective of whether the space in question is privately
+
+
+or publicly owned, irrespective of the activity for which the space may be used, such as
+
+
+for commerce, for example, shops, restaurants, cafés; for services, for example, banks,
+
+
+professional activities, hospitality; for sport, for example, swimming pools, gyms,
+
+
+stadiums; for transport, for example, bus, metro and railway stations, airports, means of
+
+
+transport; for entertainment, for example, cinemas, theatres, museums, concert and
+
+
+conference halls; or for leisure or otherwise, for example, public roads and squares,
+
+
+parks, forests, playgrounds. A space should also be classified as being publicly accessible
+
+
+if, regardless of potential capacity or security restrictions, access is subject to certain
+
+
+predetermined conditions which can be fulfilled by an undetermined number of persons,
+
+
+such as the purchase of a ticket or title of transport, prior registration or having a certain
+
+
+age. In contrast, a space should not be considered to be publicly accessible if access is
+
+
+limited to specific and defined natural persons through either Union or national law
+
+
+directly related to public safety or security or through the clear manifestation of will by
+
+
+the person having the relevant authority over the space. The factual possibility of access
+
+
+alone, such as an unlocked door or an open gate in a fence, does not imply that the space
+
+
+is publicly accessible in the presence of indications or circumstances suggesting the
+
+
+contrary, such as. signs prohibiting or restricting access. Company and factory premises,
+
+
+as well as offices and workplaces that are intended to be accessed only by relevant
+
+
+employees and service providers, are spaces that are not publicly accessible. Publicly
+
+
+accessible spaces should not include prisons or border control. Some other spaces may
+
+
+comprise both publicly accessible and non-publicly accessible spaces, such as the
+
+
+hallway of a private residential building necessary to access a doctor's office or an
+
+
+airport. Online spaces are not covered, as they are not physical spaces. Whether a given
+
+
+space is accessible to the public should however be determined on a case-by-case basis,
+
+
+having regard to the specificities of the individual situation at hand.
+
+
+(20) In order to obtain the greatest benefits from AI systems while protecting fundamental
+
+
+rights, health and safety and to enable democratic control, AI literacy should equip
+
+
+providers, deployers and affected persons with the necessary notions to make informed
+
+
+decisions regarding AI systems. Those notions may vary with regard to the relevant
+
+
+context and can include understanding the correct application of technical elements
+
+
+during the AI system’s development phase, the measures to be applied during its use, the
+
+
+suitable ways in which to interpret the AI system’s output, and, in the case of affected
+
+
+persons, the knowledge necessary to understand how decisions taken with the assistance
+
+
+of AI will have an impact on them. In the context of the application this Regulation, AI
+
+
+literacy should provide all relevant actors in the AI value chain with the insights
+
+
+required to ensure the appropriate compliance and its correct enforcement.
+
+
+Furthermore, the wide implementation of AI literacy measures and the introduction of
+
+
+appropriate follow-up actions could contribute to improving working conditions and
+
+
+ultimately sustain the consolidation, and innovation path of trustworthy AI in the Union.
+
+
+The European Artificial Intelligence Board (the ‘Board’) should support the
+
+
+Commission, to promote AI literacy tools, public awareness and understanding of the
+
+
+benefits, risks, safeguards, rights and obligations in relation to the use of AI systems. In
+
+
+cooperation with the relevant stakeholders, the Commission and the Member States
+
+
+should facilitate the drawing up of voluntary codes of conduct to advance AI literacy
+
+
+among persons dealing with the development, operation and use of AI.
+
+
+(21) In order to ensure a level playing field and an effective protection of rights and freedoms of
+
+
+individuals across the Union, the rules established by this Regulation should apply to
+
+
+providers of AI systems in a non-discriminatory manner, irrespective of whether they are
+
+
+established within the Union or in a third country, and to deployers of AI systems
+
+
+established within the Union.
+
+
+(22) In light of their digital nature, certain AI systems should fall within the scope of this
+
+
+Regulation even when they are not placed on the market, put into service, or used in the
+
+
+Union. This is the case, for example, where an operator established in the Union contracts
+
+
+certain services to an operator established in a third country in relation to an activity to be
+
+
+performed by an AI system that would qualify as high-risk ▌ . In those circumstances, the
+
+
+AI system used in a third country by the operator could process data lawfully collected in
+
+
+and transferred from the Union, and provide to the contracting operator in the Union the
+
+
+output of that AI system resulting from that processing, without that AI system being
+
+
+placed on the market, put into service or used in the Union. To prevent the circumvention
+
+
+of this Regulation and to ensure an effective protection of natural persons located in the
+
+
+Union, this Regulation should also apply to providers and deployers of AI systems that are
+
+
+established in a third country, to the extent the output produced by those systems is
+
+
+intended to be used in the Union.
+
+
+Nonetheless, to take into account existing arrangements and special needs for future
+
+
+cooperation with foreign partners with whom information and evidence is exchanged, this
+
+
+Regulation should not apply to public authorities of a third country and international
+
+
+organisations when acting in the framework of cooperation or international agreements
+
+
+concluded at Union or national level for law enforcement and judicial cooperation with the
+
+
+Union or the Member States, provided that the relevant third country or international
+
+
+organisation provides adequate safeguards with respect to the protection of fundamental
+
+
+rights and freedoms of individuals. Where relevant, this may cover activities of entities
+
+
+entrusted by the third countries to carry out specific tasks in support of such law
+
+
+enforcement and judicial cooperation. Such framework for cooperation or agreements
+
+
+have been established bilaterally between Member States and third countries or between
+
+
+the European Union, Europol and other Union agencies and third countries and
+
+
+international organisations. The authorities competent for supervision of the law
+
+
+enforcement and judicial authorities under this Regulation should assess whether those
+
+
+frameworks for cooperation or international agreements include adequate safeguards
+
+
+with respect to the protection of fundamental rights and freedoms of individuals.
+
+
+Recipient national authorities and Union institutions, bodies, offices and agencies
+
+
+making use of such outputs in the Union remain accountable to ensure their use
+
+
+complies with Union law. When those international agreements are revised or new ones
+
+
+are concluded in the future, the contracting parties should make utmost efforts to align
+
+
+those agreements with the requirements of this Regulation.
+
+
+(23) This Regulation should also apply to Union institutions, bodies, offices and agencies when
+
+
+acting as a provider or deployer of an AI system. ▌
+
+
+(24) If, and insofar as, AI systems are placed on the market, put into service, or used with or
+
+
+without modification of such systems for military, defence or national security purposes,
+
+
+those should be excluded from the scope of this Regulation regardless of which type of
+
+
+entity is carrying out those activities, such as whether it is a public or private entity. As
+
+
+regards military and defence purposes, such exclusion is justified both by Article 4(2)
+
+
+TEU and by the specificities of the Member States’ and the common Union defence
+
+
+policy covered by Chapter 2 of Title V TEU that are subject to public international law,
+
+
+which is therefore the more appropriate legal framework for the regulation of AI
+
+
+systems in the context of the use of lethal force and other AI systems in the context of
+
+
+military and defence activities. As regards national security purposes, the exclusion is
+
+
+justified both by the fact that national security remains the sole responsibility of Member
+
+
+States in accordance with Article 4(2) TEU and by the specific nature and operational
+
+
+needs of national security activities and specific national rules applicable to those
+
+
+activities. Nonetheless, if an AI system developed, placed on the market, put into service
+
+
+or used for military, defence or national security purposes is used outside those
+
+
+temporarily or permanently for other purposes, for example, civilian or humanitarian
+
+
+purposes, law enforcement or public security purposes, such a system would fall within
+
+
+the scope of this Regulation.
+
+
+In that case, the entity using the AI system for other than military, defence or national
+
+
+security purposes should ensure the compliance of the AI system with this Regulation,
+
+
+unless the system is already compliant with this Regulation. AI systems placed on the
+
+
+market or put into service for an excluded purpose, namely military, defence or national
+
+
+security, and one or more non-excluded purposes, such as civilian purposes or law
+
+
+enforcement, fall within the scope of this Regulation and providers of those systems
+
+
+should ensure compliance with this Regulation. In those cases, the fact that an AI
+
+
+system may fall within the scope of this Regulation should not affect the possibility of
+
+
+entities carrying out national security, defence and military activities, regardless of the
+
+
+type of entity carrying out those activities, to use AI systems for national security,
+
+
+military and defence purposes, the use of which is excluded from the scope of this
+
+
+Regulation. An AI system placed on the market for civilian or law enforcement purposes
+
+
+which is used with or without modification for military, defence or national security
+
+
+purposes should not fall within the scope of this Regulation, regardless of the type of
+
+
+entity carrying out those activities.
+
+
+(25) This Regulation should support innovation, should respect freedom of science, and
+
+
+should not undermine research and development activity. It is therefore necessary to
+
+
+exclude from its scope AI systems and models specifically developed and put into service
+
+
+for the sole purpose of scientific research and development. Moreover, it is necessary to
+
+
+ensure that this Regulation does not otherwise affect scientific research and
+
+
+development activity on AI systems or models prior to being placed on the market or put
+
+
+into service. As regards product-oriented research, testing and development activity
+
+
+regarding AI systems or models, the provisions of this Regulation should also not apply
+
+
+prior to those systems and models being put into service or placed on the market. That
+
+
+exclusion is without prejudice to the obligation to comply with this Regulation where an
+
+
+AI system falling into the scope of this Regulation is placed on the market or put into
+
+
+service as a result of such research and development activity and to the application of
+
+
+provisions on AI regulatory sandboxes and testing in real world conditions.
+
+
+Furthermore, without prejudice to the exclusion of AI systems specifically developed and
+
+
+put into service for the sole purpose of scientific research and development, any other AI
+
+
+system that may be used for the conduct of any research and development activity should
+
+
+remain subject to the provisions of this Regulation. In any event, any research and
+
+
+development activity should be carried out in accordance with recognised ethical and
+
+
+professional standards for scientific research and should be conducted in accordance
+
+
+with applicable Union law.
+
+
+(26) In order to introduce a proportionate and effective set of binding rules for AI systems, a
+
+
+clearly defined risk-based approach should be followed. That approach should tailor the
+
+
+type and content of such rules to the intensity and scope of the risks that AI systems can
+
+
+generate. It is therefore necessary to prohibit certain unacceptable AI practices, to lay
+
+
+down requirements for high-risk AI systems and obligations for the relevant operators, and
+
+
+to lay down transparency obligations for certain AI systems.
+
+
+(27) While the risk-based approach is the basis for a proportionate and effective set of
+
+
+binding rules, it is important to recall the 2019 Ethics guidelines for trustworthy AI
+
+
+developed by the independent AI HLEG appointed by the Commission. In those
+
+
+guidelines, the AI HLEG developed seven non-binding ethical principles for AI which
+
+
+are intended to help ensure that AI is trustworthy and ethically sound. The seven
+
+
+principles include human agency and oversight; technical robustness and safety; privacy
+
+
+and data governance; transparency; diversity, non-discrimination and fairness; societal
+
+
+and environmental well-being and accountability. Without prejudice to the legally
+
+
+binding requirements of this Regulation and any other applicable Union law, those
+
+
+guidelines contribute to the design of coherent, trustworthy and human-centric AI, in
+
+
+line with the Charter and with the values on which the Union is founded. According to
+
+
+the guidelines of the AI HLEG, human agency and oversight means that AI systems are
+
+
+developed and used as a tool that serves people, respects human dignity and personal
+
+
+autonomy, and that is functioning in a way that can be appropriately controlled and
+
+
+overseen by humans.
+
+
+Technical robustness and safety means that AI systems are developed and used in a way
+
+
+that allows robustness in the case of problems and resilience against attempts to alter the
+
+
+use or performance of the AI system so as to allow unlawful use by third parties, and
+
+
+minimise unintended harm. Privacy and data governance means that AI systems are
+
+
+developed and used in accordance with privacy and data protection rules, while
+
+
+processing data that meets high standards in terms of quality and integrity.
+
+
+Transparency means that AI systems are developed and used in a way that allows
+
+
+appropriate traceability and explainability, while making humans aware that they
+
+
+communicate or interact with an AI system, as well as duly informing deployers of the
+
+
+capabilities and limitations of that AI system and affected persons about their rights.
+
+
+Diversity, non-discrimination and fairness means that AI systems are developed and
+
+
+used in a way that includes diverse actors and promotes equal access, gender equality
+
+
+and cultural diversity, while avoiding discriminatory impacts and unfair biases that are
+
+
+prohibited by Union or national law. Social and environmental well-being means that AI
+
+
+systems are developed and used in a sustainable and environmentally friendly manner as
+
+
+well as in a way to benefit all human beings, while monitoring and assessing the long-
+
+
+term impacts on the individual, society and democracy. The application of those
+
+
+principles should be translated, when possible, in the design and use of AI models. They
+
+
+should in any case serve as a basis for the drafting of codes of conduct under this
+
+
+Regulation. All stakeholders, including industry, academia, civil society and
+
+
+standardisation organisations, are encouraged to take into account, as appropriate, the
+
+
+ethical principles for the development of voluntary best practices and standards.
+
+
+(28) Aside from the many beneficial uses of AI, it can also be misused and provide novel and
+
+
+powerful tools for manipulative, exploitative and social control practices. Such practices
+
+
+are particularly harmful and abusive and should be prohibited because they contradict
+
+
+Union values of respect for human dignity, freedom, equality, democracy and the rule of
+
+
+law and fundamental rights enshrined in the Charter, including the right to non-
+
+
+discrimination, to data protection and to privacy and the rights of the child.
+
+
+(29) AI-enabled manipulative techniques can be used to persuade persons to engage in
+
+
+unwanted behaviours, or to deceive them by nudging them into decisions in a way that
+
+
+subverts and impairs their autonomy, decision-making and free choices. The placing on
+
+
+the market, the putting into service or the use of certain AI systems with the objective to or
+
+
+the effect of materially distorting human behaviour, whereby significant harms, in
+
+
+particular having sufficiently important adverse impacts on physical, psychological
+
+
+health or financial interests are likely to occur, are particularly dangerous and should
+
+
+therefore be prohibited. Such AI systems deploy subliminal components such as audio,
+
+
+image, video stimuli that persons cannot perceive, as those stimuli are beyond human
+
+
+perception, or other manipulative or deceptive techniques that subvert or impair person’s
+
+
+autonomy, decision-making or free choice in ways that people are not consciously aware
+
+
+of those techniques or, where they are aware of them, can still be deceived or are not
+
+
+able to control or resist them. This could be facilitated, for example, by machine-brain
+
+
+interfaces or virtual reality as they allow for a higher degree of control of what stimuli
+
+
+are presented to persons, insofar as they may materially distort their behaviour in a
+
+
+significantly harmful manner. In addition, AI systems may also otherwise exploit the
+
+
+vulnerabilities of a person or a specific group of persons due to their age, disability within
+
+
+the meaning of Directive (EU) 2019/882 of the European Parliament and of the
+
+
+Council16, or a specific social or economic situation that is likely to make those persons
+
+
+more vulnerable to exploitation such as persons living in extreme poverty, ethnic or
+
+
+religious minorities.
+
+
+16 Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April 2019 on
+
+
+the accessibility requirements for products and services (OJ L 151, 7.6.2019, p. 70).
+
+
+Such AI systems can be placed on the market, put into service or used with the objective
+
+
+to or the effect of materially distorting the behaviour of a person and in a manner that
+
+
+causes or is reasonably likely to cause significant harm to that or another person or groups
+
+
+of persons, including harms that may be accumulated over time and should therefore be
+
+
+prohibited. It may not be possible to assume that there is an intention to distort behaviour
+
+
+where the distortion ▌ results from factors external to the AI system which are outside the
+
+
+control of the provider or the deployer, namely factors that may not be reasonably
+
+
+foreseeable and therefore not possible for the provider or the deployer of the AI system
+
+
+to mitigate. In any case, it is not necessary for the provider or the deployer to have the
+
+
+intention to cause significant harm, provided that such harm results from the
+
+
+manipulative or exploitative AI-enabled practices. The prohibitions for such AI practices
+
+
+are complementary to the provisions contained in Directive 2005/29/EC of the European
+
+
+Parliament and of the Council17, in particular unfair commercial practices leading to
+
+
+economic or financial harms to consumers are prohibited under all circumstances,
+
+
+irrespective of whether they are put in place through AI systems or otherwise. The
+
+
+prohibitions of manipulative and exploitative practices in this Regulation should not
+
+
+affect lawful practices in the context of medical treatment such as psychological
+
+
+treatment of a mental disease or physical rehabilitation, when those practices are carried
+
+
+out in accordance with the applicable law and medical standards, for example explicit
+
+
+consent of the individuals or their legal representatives. In addition, common and
+
+
+legitimate commercial practices, for example in the field of advertising, that comply with
+
+
+the applicable law should not, in themselves, be regarded as constituting harmful
+
+
+manipulative AI-enabled practices.
+
+
+17 Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005
+
+
+concerning unfair business-to-consumer commercial practices in the internal market and
+
+
+amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of
+
+
+the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the
+
+
+European Parliament and of the Council (‘Unfair Commercial Practices Directive’) (OJ L
+
+
+149, 11.6.2005, p. 22).
+
+
+(30) Biometric categorisation systems that are based on natural persons’ biometric data, such
+
+
+as an individual person’s face or fingerprint, to deduce or infer an individuals’ political
+
+
+opinions, trade union membership, religious or philosophical beliefs, race, sex life or
+
+
+sexual orientation should be prohibited. That prohibition should not cover the lawful
+
+
+labelling, filtering or categorisation of biometric data sets acquired in line with Union or
+
+
+national law according to biometric data, such as the sorting of images according to hair
+
+
+colour or eye colour, which can for example be used in the area of law enforcement.
+
+
+(31) AI systems providing social scoring of natural persons ▌ by public or private actors may
+
+
+lead to discriminatory outcomes and the exclusion of certain groups. They may violate the
+
+
+right to dignity and non-discrimination and the values of equality and justice. Such AI
+
+
+systems evaluate or classify natural persons or groups thereof on the basis of multiple
+
+
+data points related to their social behaviour in multiple contexts or known, inferred or
+
+
+predicted personal or personality characteristics over certain periods of time. The social
+
+
+score obtained from such AI systems may lead to the detrimental or unfavourable
+
+
+treatment of natural persons or whole groups thereof in social contexts, which are unrelated
+
+
+to the context in which the data was originally generated or collected or to a detrimental
+
+
+treatment that is disproportionate or unjustified to the gravity of their social behaviour. AI
+
+
+systems entailing such unacceptable scoring practices and leading to such detrimental or
+
+
+unfavourable outcomes should therefore be prohibited. That prohibition should not affect
+
+
+lawful evaluation practices of natural persons that are carried out for a specific purpose
+
+
+in accordance with Union and national law.
+
+
+(32) The use of AI systems for ‘real-time’ remote biometric identification of natural persons in
+
+
+publicly accessible spaces for the purpose of law enforcement is particularly intrusive to
+
+
+the rights and freedoms of the concerned persons, to the extent that it may affect the
+
+
+private life of a large part of the population, evoke a feeling of constant surveillance and
+
+
+indirectly dissuade the exercise of the freedom of assembly and other fundamental rights.
+
+
+Technical inaccuracies of AI systems intended for the remote biometric identification of
+
+
+natural persons can lead to biased results and entail discriminatory effects. Such
+
+
+possible biased results and discriminatory effects are particularly relevant with regard to
+
+
+age, ethnicity, race, sex or disabilities. In addition, the immediacy of the impact and the
+
+
+limited opportunities for further checks or corrections in relation to the use of such systems
+
+
+operating in real-time carry heightened risks for the rights and freedoms of the persons
+
+
+concerned in the context of, or impacted by, law enforcement activities.
+
+
+(33) The use of those systems for the purpose of law enforcement should therefore be
+
+
+prohibited, except in exhaustively listed and narrowly defined situations, where the use is
+
+
+strictly necessary to achieve a substantial public interest, the importance of which
+
+
+outweighs the risks. Those situations involve the search for certain victims of crime ▌
+
+
+including missing persons; certain threats to the life or to the physical safety of natural
+
+
+persons or of a terrorist attack; and the localisation or identification of perpetrators or
+
+
+suspects of the criminal offences listed in an annex to this Regulation, where those
+
+
+criminal offences are punishable in the Member State concerned by a custodial sentence or
+
+
+a detention order for a maximum period of at least four years and as they are defined in the
+
+
+law of that Member State. Such a threshold for the custodial sentence or detention order in
+
+
+accordance with national law contributes to ensuring that the offence should be serious
+
+
+enough to potentially justify the use of ‘real-time’ remote biometric identification systems.
+
+
+Moreover, the list of criminal offences provided in an annex to this Regulation is based
+
+
+on the 32 criminal offences listed in the Council Framework Decision 2002/584/JHA18,
+
+
+taking into account that some of those offences are, in practice, likely to be more relevant
+
+
+than others, in that the recourse to ‘real-time’ remote biometric identification could,
+
+
+foreseeably, be necessary and proportionate to highly varying degrees for the practical
+
+
+pursuit of the localisation or identification of a perpetrator or suspect of the different
+
+
+criminal offences listed and having regard to the likely differences in the seriousness,
+
+
+probability and scale of the harm or possible negative consequences. An imminent threat
+
+
+to life or the physical safety of natural persons could also result from a serious
+
+
+disruption of critical infrastructure, as defined in Article 2, point (4) of Directive (EU)
+
+
+2022/2557 of the European Parliament and of the Council19, where the disruption or
+
+
+destruction of such critical infrastructure would result in an imminent threat to life or
+
+
+the physical safety of a person, including through serious harm to the provision of basic
+
+
+supplies to the population or to the exercise of the core function of the State. In addition,
+
+
+this Regulation should preserve the ability for law enforcement, border control,
+
+
+immigration or asylum authorities to carry out identity checks in the presence of the
+
+
+person concerned in accordance with the conditions set out in Union and national law
+
+
+for such checks. In particular, law enforcement, border control, immigration or asylum
+
+
+authorities should be able to use information systems, in accordance with Union or
+
+
+national law, to identify persons who, during an identity check, either refuse to be
+
+
+identified or are unable to state or prove their identity, without being required by this
+
+
+Regulation to obtain prior authorisation. This could be, for example, a person involved
+
+
+in a crime, being unwilling, or unable due to an accident or a medical condition, to
+
+
+disclose their identity to law enforcement authorities.
+
+
+18 Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest
+
+
+warrant and the surrender procedures between Member States (OJ L 190, 18.7.2002, p. 1).
+
+
+19 Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December
+
+
+2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ
+
+
+L 333, 27.12.2022, p. 164).
+
+
+(34) In order to ensure that those systems are used in a responsible and proportionate manner, it
+
+
+is also important to establish that, in each of those exhaustively listed and narrowly defined
+
+
+situations, certain elements should be taken into account, in particular as regards the nature
+
+
+of the situation giving rise to the request and the consequences of the use for the rights and
+
+
+freedoms of all persons concerned and the safeguards and conditions provided for with the
+
+
+use. In addition, the use of ‘real-time’ remote biometric identification systems in publicly
+
+
+accessible spaces for the purpose of law enforcement should be deployed only to confirm
+
+
+the specifically targeted individual’s identity and should be limited to what is strictly
+
+
+necessary concerning the period of time, as well as the geographic and personal scope,
+
+
+having regard in particular to the evidence or indications regarding the threats, the victims
+
+
+or perpetrator. The use of the real-time remote biometric identification system in publicly
+
+
+accessible spaces should be authorised only if the relevant law enforcement authority
+
+
+has completed a fundamental rights impact assessment and, unless provided otherwise in
+
+
+this Regulation, has registered the system in the database as set out in this Regulation.
+
+
+The reference database of persons should be appropriate for each use case in each of the
+
+
+situations mentioned above.
+
+
+(35) Each use of a ‘real-time’ remote biometric identification system in publicly accessible
+
+
+spaces for the purpose of law enforcement should be subject to an express and specific
+
+
+authorisation by a judicial authority or by an independent administrative authority of a
+
+
+Member State whose decision is binding. Such authorisation should, in principle, be
+
+
+obtained prior to the use of the AI system with a view to identifying a person or persons.
+
+
+Exceptions to that rule should be allowed in duly justified situations on grounds of
+
+
+urgency, namely in situations where the need to use the systems concerned is such as to
+
+
+make it effectively and objectively impossible to obtain an authorisation before
+
+
+commencing the use of the AI system. In such situations of urgency, the use of the AI
+
+
+system should be restricted to the absolute minimum necessary and should be subject to
+
+
+appropriate safeguards and conditions, as determined in national law and specified in the
+
+
+context of each individual urgent use case by the law enforcement authority itself. In
+
+
+addition, the law enforcement authority should in such situations request such
+
+
+authorisation ▌ while providing the reasons for not having been able to request it earlier,
+
+
+without undue delay and at the latest within 24 hours. If such an authorisation is
+
+
+rejected, the use of real-time biometric identification systems linked to that authorisation
+
+
+should cease with immediate effect and all the data related to such use should be
+
+
+discarded and deleted. Such data includes input data directly acquired by an AI system
+
+
+in the course of the use of such system as well as the results and outputs of the use
+
+
+linked to that authorisation. It should not include input that is legally acquired in
+
+
+accordance with another Union or national law. In any case, no decision producing an
+
+
+adverse legal effect on a person should be taken based solely on the output of the remote
+
+
+biometric identification system.
+
+
+(36) In order to carry out their tasks in accordance with the requirements set out in this
+
+
+Regulation as well as in national rules, the relevant market surveillance authority and
+
+
+the national data protection authority should be notified of each use of the real-time
+
+
+biometric identification system. Market surveillance authorities and the national data
+
+
+protection authorities that have been notified should submit to the Commission an
+
+
+annual report on the use of real-time biometric identification systems.
+
+
+(37) Furthermore, it is appropriate to provide, within the exhaustive framework set by this
+
+
+Regulation that such use in the territory of a Member State in accordance with this
+
+
+Regulation should only be possible where and in as far as the Member State concerned has
+
+
+decided to expressly provide for the possibility to authorise such use in its detailed rules of
+
+
+national law. Consequently, Member States remain free under this Regulation not to
+
+
+provide for such a possibility at all or to only provide for such a possibility in respect of
+
+
+some of the objectives capable of justifying authorised use identified in this Regulation.
+
+
+Such national rules should be notified to the Commission within 30 days of their
+
+
+adoption.
+
+
+(38) The use of AI systems for real-time remote biometric identification of natural persons in
+
+
+publicly accessible spaces for the purpose of law enforcement necessarily involves the
+
+
+processing of biometric data. The rules of this Regulation that prohibit, subject to certain
+
+
+exceptions, such use, which are based on Article 16 TFEU, should apply as lex specialis in
+
+
+respect of the rules on the processing of biometric data contained in Article 10 of Directive
+
+
+(EU) 2016/680, thus regulating such use and the processing of biometric data involved in
+
+
+an exhaustive manner. Therefore, such use and processing should be possible only in as far
+
+
+as it is compatible with the framework set by this Regulation, without there being scope,
+
+
+outside that framework, for the competent authorities, where they act for purpose of law
+
+
+enforcement, to use such systems and process such data in connection thereto on the
+
+
+grounds listed in Article 10 of Directive (EU) 2016/680. In that context, this Regulation is
+
+
+not intended to provide the legal basis for the processing of personal data under Article 8
+
+
+of Directive (EU) 2016/680. However, the use of real-time remote biometric identification
+
+
+systems in publicly accessible spaces for purposes other than law enforcement, including
+
+
+by competent authorities, should not be covered by the specific framework regarding such
+
+
+use for the purpose of law enforcement set by this Regulation. Such use for purposes other
+
+
+than law enforcement should therefore not be subject to the requirement of an authorisation
+
+
+under this Regulation and the applicable detailed rules of national law that may give effect
+
+
+to that authorisation.
+
+
+(39) Any processing of biometric data and other personal data involved in the use of AI systems
+
+
+for biometric identification, other than in connection to the use of real-time remote
+
+
+biometric identification systems in publicly accessible spaces for the purpose of law
+
+
+enforcement as regulated by this Regulation, should continue to comply with all
+
+
+requirements resulting from Article 10 of Directive (EU) 2016/680. For purposes other
+
+
+than law enforcement, ▌ Article 9(1) of Regulation (EU) 2016/679 and Article 10(1) of
+
+
+Regulation (EU) 2018/1725 prohibit the processing of biometric data subject to limited
+
+
+exceptions as provided in those Articles. In the application of Article 9(1) of Regulation
+
+
+(EU) 2016/679, the use of remote biometric identification for purposes other than law
+
+
+enforcement has already been subject to prohibition decisions by national data
+
+
+protection authorities.
+
+
+(40) In accordance with Article 6a of Protocol No 21 on the position of the United Kingdom
+
+
+and Ireland in respect of the area of freedom, security and justice, as annexed to the TEU
+
+
+and to the TFEU, Ireland is not bound by the rules laid down in Article 5(1), first
+
+
+subparagraph, point (g), to the extent it applies to the use of biometric categorisation
+
+
+systems for activities in the field of police cooperation and judicial cooperation in
+
+
+criminal matters, Article 5(1), first subparagraph, point (d), to the extent it applies to the
+
+
+use of AI systems covered by that provision, Article 5(1), first subparagraph, point (h),
+
+
+Article 5(2) to (6) and Article 26(10) of this Regulation adopted on the basis of Article 16
+
+
+TFEU which relate to the processing of personal data by the Member States when carrying
+
+
+out activities falling within the scope of Chapter 4 or Chapter 5 of Title V of Part Three of
+
+
+the TFEU, where Ireland is not bound by the rules governing the forms of judicial
+
+
+cooperation in criminal matters or police cooperation which require compliance with the
+
+
+provisions laid down on the basis of Article 16 TFEU.
+
+
+(41) In accordance with Articles 2 and 2a of Protocol No 22 on the position of Denmark,
+
+
+annexed to the TEU and to the TFEU, Denmark is not bound by rules laid down in Article
+
+
+5(1), first subparagraph, point (g), to the extent it applies to the use of biometric
+
+
+categorisation systems for activities in the field of police cooperation and judicial
+
+
+cooperation in criminal matters, Article 5(1), first subparagraph, point (d), to the extent
+
+
+it applies to the use of AI systems covered by that provision, Article 5(1), first
+
+
+subparagraph, point (h), (2) to (6) and Article 26(10) of this Regulation adopted on the
+
+
+basis of Article 16 TFEU, or subject to their application, which relate to the processing of
+
+
+personal data by the Member States when carrying out activities falling within the scope of
+
+
+Chapter 4 or Chapter 5 of Title V of Part Three of the TFEU.
+
+
+(42) In line with the presumption of innocence, natural persons in the Union should always
+
+
+be judged on their actual behaviour. Natural persons should never be judged on AI-
+
+
+predicted behaviour based solely on their profiling, personality traits or characteristics,
+
+
+such as nationality, place of birth, place of residence, number of children, level of debt
+
+
+or type of car, without a reasonable suspicion of that person being involved in a criminal
+
+
+activity based on objective verifiable facts and without human assessment thereof.
+
+
+Therefore, risk assessments carried out with regard to natural persons in order to assess
+
+
+the likelihood of their offending or to predict the occurrence of an actual or potential
+
+
+criminal offence based solely on profiling them or on assessing their personality traits
+
+
+and characteristics should be prohibited. In any case, that prohibition does not refer to
+
+
+or touch upon risk analytics that are not based on the profiling of individuals or on the
+
+
+personality traits and characteristics of individuals, such as AI systems using risk
+
+
+analytics to assess the likelihood of financial fraud by undertakings on the basis of
+
+
+suspicious transactions or risk analytic tools to predict the likelihood of the localisation
+
+
+of narcotics or illicit goods by customs authorities, for example on the basis of known
+
+
+trafficking routes.
+
+
+(43) The placing on the market, the putting into service for that specific purpose, or the use
+
+
+of AI systems that create or expand facial recognition databases through the untargeted
+
+
+scraping of facial images from the internet or CCTV footage, should be prohibited
+
+
+because that practice adds to the feeling of mass surveillance and can lead to gross
+
+
+violations of fundamental rights, including the right to privacy.
+
+
+(44) There are serious concerns about the scientific basis of AI systems aiming to identify or
+
+
+infer emotions, particularly as expression of emotions vary considerably across cultures
+
+
+and situations, and even within a single individual. Among the key shortcomings of such
+
+
+systems are the limited reliability, the lack of specificity and the limited generalisability.
+
+
+Therefore, AI systems identifying or inferring emotions or intentions of natural persons
+
+
+on the basis of their biometric data may lead to discriminatory outcomes and can be
+
+
+intrusive to the rights and freedoms of the concerned persons. Considering the
+
+
+imbalance of power in the context of work or education, combined with the intrusive
+
+
+nature of these systems, such systems could lead to detrimental or unfavourable
+
+
+treatment of certain natural persons or whole groups thereof. Therefore, the placing on
+
+
+the market, the putting into service, or the use of AI systems intended to be used to detect
+
+
+the emotional state of individuals in situations related to the workplace and education
+
+
+should be prohibited. That prohibition should not cover AI systems placed on the market
+
+
+strictly for medical or safety reasons, such as systems intended for therapeutical use.
+
+
+(45) Practices that are prohibited by Union law, including data protection law, non-
+
+
+discrimination law, consumer protection law, and competition law, should not be
+
+
+affected by this Regulation.
+
+
+(46) High-risk AI systems should only be placed on the Union market, put into service or used
+
+
+if they comply with certain mandatory requirements. Those requirements should ensure
+
+
+that high-risk AI systems available in the Union or whose output is otherwise used in the
+
+
+Union do not pose unacceptable risks to important Union public interests as recognised and
+
+
+protected by Union law. On the basis of the New Legislative Framework, as clarified in
+
+
+the Commission notice “The ‘Blue Guide’ on the implementation of EU product rules
+
+
+2022”20, the general rule is that more than one legal act of Union harmonisation
+
+
+legislation, such as Regulations (EU) 2017/74521 and (EU) 2017/74622 of the European
+
+
+Parliament and of the Council or Directive 2006/42/EC of the European Parliament and
+
+
+of the Council23, may be applicable to one product, since the making available or putting
+
+
+into service can take place only when the product complies with all applicable Union
+
+
+harmonisation legislation. To ensure consistency and avoid unnecessary administrative
+
+
+burdens or costs, providers of a product that contains one or more high-risk AI systems,
+
+
+to which the requirements of this Regulation and of the Union harmonisation legislation
+
+
+listed in an annex to this Regulation apply, should have flexibility with regard to
+
+
+operational decisions on how to ensure compliance of a product that contains one or
+
+
+more AI systems with all applicable requirements of the Union harmonisation legislation
+
+
+in an optimal manner. AI systems identified as high-risk should be limited to those that
+
+
+have a significant harmful impact on the health, safety and fundamental rights of persons
+
+
+in the Union and such limitation should minimise any potential restriction to international
+
+
+trade.
+
+
+20 OJ C 247, 29.6.2022, p. 1.
+
+
+21 Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017
+
+
+on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and
+
+
+Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and
+
+
+93/42/EEC (OJ L 117, 5.5.2017, p. 1).
+
+
+22 Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017
+
+
+on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission
+
+
+Decision 2010/227/EU (OJ L 117, 5.5.2017, p. 176).
+
+
+23 Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on
+
+
+machinery, and amending Directive 95/16/EC (OJ L 157, 9.6.2006, p. 24).
+
+
+(47) AI systems could have an adverse impact on the health and safety of persons, in particular
+
+
+when such systems operate as safety components of products. Consistent with the
+
+
+objectives of Union harmonisation legislation to facilitate the free movement of products in
+
+
+the internal market and to ensure that only safe and otherwise compliant products find their
+
+
+way into the market, it is important that the safety risks that may be generated by a product
+
+
+as a whole due to its digital components, including AI systems, are duly prevented and
+
+
+mitigated. For instance, increasingly autonomous robots, whether in the context of
+
+
+manufacturing or personal assistance and care should be able to safely operate and
+
+
+performs their functions in complex environments. Similarly, in the health sector where the
+
+
+stakes for life and health are particularly high, increasingly sophisticated diagnostics
+
+
+systems and systems supporting human decisions should be reliable and accurate. ▌
+
+
+(48) The extent of the adverse impact caused by the AI system on the fundamental rights
+
+
+protected by the Charter is of particular relevance when classifying an AI system as high
+
+
+risk. Those rights include the right to human dignity, respect for private and family life,
+
+
+protection of personal data, freedom of expression and information, freedom of
+
+
+assembly and of association, the right to non-discrimination, the right to education,
+
+
+consumer protection, workers’ rights, the rights of persons with disabilities, gender
+
+
+equality, intellectual property rights, the right to an effective remedy and to a fair trial,
+
+
+the right of defence and the presumption of innocence, and the right to good
+
+
+administration. In addition to those rights, it is important to highlight the fact that
+
+
+children have specific rights as enshrined in Article 24 of the Charter and in the United
+
+
+Nations Convention on the Rights of the Child, further developed in the UNCRC
+
+
+General Comment No 25 as regards the digital environment, both of which require
+
+
+consideration of the children’s vulnerabilities and provision of such protection and care
+
+
+as necessary for their well-being. The fundamental right to a high level of environmental
+
+
+protection enshrined in the Charter and implemented in Union policies should also be
+
+
+considered when assessing the severity of the harm that an AI system can cause,
+
+
+including in relation to the health and safety of persons.
+
+
+(49) As regards high-risk AI systems that are safety components of products or systems, or
+
+
+which are themselves products or systems falling within the scope of Regulation (EC) No
+
+
+300/2008 of the European Parliament and of the Council24, Regulation (EU) No 167/2013
+
+
+of the European Parliament and of the Council25, Regulation (EU) No 168/2013 of the
+
+
+European Parliament and of the Council26, Directive 2014/90/EU of the European
+
+
+Parliament and of the Council27, Directive (EU) 2016/797 of the European Parliament and
+
+
+of the Council28, Regulation (EU) 2018/858 of the European Parliament and of the
+
+
+Council29, Regulation (EU) 2018/1139 of the European Parliament and of the Council30,
+
+
+and Regulation (EU) 2019/2144 of the European Parliament and of the Council31, it is
+
+
+24 Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March
+
+
+2008 on common rules in the field of civil aviation security and repealing Regulation (EC)
+
+
+No 2320/2002 (OJ L 97, 9.4.2008, p. 72).
+
+
+25 Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February
+
+
+2013 on the approval and market surveillance of agricultural and forestry vehicles (OJ L 60,
+
+
+2.3.2013, p. 1).
+
+
+26 Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January
+
+
+2013 on the approval and market surveillance of two- or three-wheel vehicles and
+
+
+quadricycles (OJ L 60, 2.3.2013, p. 52).
+
+
+27 Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on
+
+
+marine equipment and repealing Council Directive 96/98/EC (OJ L 257, 28.8.2014, p. 146).
+
+
+28 Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on
+
+
+the interoperability of the rail system within the European Union (OJ L 138, 26.5.2016, p.
+
+
+44).
+
+
+29 Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018
+
+
+on the approval and market surveillance of motor vehicles and their trailers, and of systems,
+
+
+components and separate technical units intended for such vehicles, amending Regulations
+
+
+(EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151,
+
+
+14.6.2018, p. 1).
+
+
+30 Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018
+
+
+on common rules in the field of civil aviation and establishing a European Union Aviation
+
+
+Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU)
+
+
+No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the
+
+
+European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and
+
+
+(EC) No 216/2008 of the European Parliament and of the Council and Council Regulation
+
+
+(EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1).
+
+
+31 Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November
+
+
+2019 on type-approval requirements for motor vehicles and their trailers, and systems,
+
+
+components and separate technical units intended for such vehicles, as regards their general
+
+
+safety and the protection of vehicle occupants and vulnerable road users, amending
+
+
+Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing
+
+
+Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009 of the European
+
+
+Parliament and of the Council and Commission Regulations (EC) No 631/2009, (EU) No
+
+
+406/2010, (EU) No 672/2010, (EU) No 1003/2010, (EU) No 1005/2010, (EU) No
+
+
+1008/2010, (EU) No 1009/2010, (EU) No 19/2011, (EU) No 109/2011, (EU) No 458/2011,
+
+
+(EU) No 65/2012, (EU) No 130/2012, (EU) No 347/2012, (EU) No 351/2012, (EU) No
+
+
+1230/2012 and (EU) 2015/166 (OJ L 325, 16.12.2019, p. 1).
+
+
+appropriate to amend those acts to ensure that the Commission takes into account, on the
+
+
+basis of the technical and regulatory specificities of each sector, and without interfering
+
+
+with existing governance, conformity assessment and enforcement mechanisms and
+
+
+authorities established therein, the mandatory requirements for high-risk AI systems laid
+
+
+down in this Regulation when adopting any relevant delegated or implementing acts on the
+
+
+basis of those acts.
+
+
+(50) As regards AI systems that are safety components of products, or which are themselves
+
+
+products, falling within the scope of certain Union harmonisation legislation listed in an
+
+
+annex to this Regulation, it is appropriate to classify them as high-risk under this
+
+
+Regulation if the product concerned undergoes the conformity assessment procedure with a
+
+
+third-party conformity assessment body pursuant to that relevant Union harmonisation
+
+
+legislation. In particular, such products are machinery, toys, lifts, equipment and protective
+
+
+systems intended for use in potentially explosive atmospheres, radio equipment, pressure
+
+
+equipment, recreational craft equipment, cableway installations, appliances burning
+
+
+gaseous fuels, medical devices, in vitro diagnostic medical devices, automotive and
+
+
+aviation.
+
+
+(51) The classification of an AI system as high-risk pursuant to this Regulation should not
+
+
+necessarily mean that the product whose safety component is the AI system, or the AI
+
+
+system itself as a product, is considered to be high-risk under the criteria established in the
+
+
+relevant Union harmonisation legislation that applies to the product. This is, in particular,
+
+
+the case for Regulations (EU) 2017/745 and (EU) 2017/746, where a third-party
+
+
+conformity assessment is provided for medium-risk and high-risk products.
+
+
+(52) As regards stand-alone AI systems, namely high-risk AI systems other than those that are
+
+
+safety components of products, or that are themselves products, it is appropriate to classify
+
+
+them as high-risk if, in light of their intended purpose, they pose a high risk of harm to the
+
+
+health and safety or the fundamental rights of persons, taking into account both the severity
+
+
+of the possible harm and its probability of occurrence and they are used in a number of
+
+
+specifically pre-defined areas specified in this Regulation. The identification of those
+
+
+systems is based on the same methodology and criteria envisaged also for any future
+
+
+amendments of the list of high-risk AI systems that the Commission should be
+
+
+empowered to adopt, via delegated acts, to take into account the rapid pace of
+
+
+technological development, as well as the potential changes in the use of AI systems.
+
+
+(53) It is also important to clarify that there may be specific cases in which AI systems
+
+
+referred to in pre-defined areas specified in this Regulation do not lead to a significant
+
+
+risk of harm to the legal interests protected under those areas because they do not
+
+
+materially influence the decision-making or do not harm those interests substantially.
+
+
+For the purposes of this Regulation, an AI system that does not materially influence the
+
+
+outcome of decision-making should be understood to be an AI system that does not have
+
+
+an impact on the substance, and thereby the outcome, of decision-making, whether
+
+
+human or automated. An AI system that does not materially influence the outcome of
+
+
+decision-making could include situations in which one or more of the following
+
+
+conditions are fulfilled. The first such condition should be that the AI system is intended
+
+
+to perform a narrow procedural task, such as an AI system that transforms unstructured
+
+
+data into structured data, an AI system that classifies incoming documents into
+
+
+categories or an AI system that is used to detect duplicates among a large number of
+
+
+applications. Those tasks are of such narrow and limited nature that they pose only
+
+
+limited risks which are not increased through the use of an AI system in a context that is
+
+
+listed as a high-risk use in an annex to this Regulation. The second condition should be
+
+
+that the task performed by the AI system is intended to improve the result of a previously
+
+
+completed human activity that may be relevant for the purposes of the high-risk uses
+
+
+listed in an annex to this Regulation. Considering those characteristics, the AI system
+
+
+provides only an additional layer to a human activity with consequently lowered risk.
+
+
+That condition would, for example, apply to AI systems that are intended to improve the
+
+
+language used in previously drafted documents, for example in relation to professional
+
+
+tone, academic style of language or by aligning text to a certain brand messaging.
+
+
+The third condition should be that the AI system is intended to detect decision-making
+
+
+patterns or deviations from prior decision-making patterns. The risk would be lowered
+
+
+because the use of the AI system follows a previously completed human assessment
+
+
+which it is not meant to replace or influence, without proper human review. Such AI
+
+
+systems include for instance those that, given a certain grading pattern of a teacher, can
+
+
+be used to check ex post whether the teacher may have deviated from the grading pattern
+
+
+so as to flag potential inconsistencies or anomalies. The fourth condition should be that
+
+
+the AI system is intended to perform a task that is only preparatory to an assessment
+
+
+relevant for the purposes of the AI systems listed in an annex to this Regulation, thus
+
+
+making the possible impact of the output of the system very low in terms of representing
+
+
+a risk for the assessment to follow. That condition covers, inter alia, smart solutions for
+
+
+file handling, which include various functions from indexing, searching, text and speech
+
+
+processing or linking data to other data sources, or AI systems used for translation of
+
+
+initial documents. In any case, AI systems used in high-risk use-cases listed in an annex
+
+
+to this Regulation should be considered to pose significant risks of harm to the health,
+
+
+safety or fundamental rights if the AI system implies profiling within the meaning of
+
+
+Article 4, point (4) of Regulation (EU) 2016/679 or Article 3, point (4) of Directive (EU)
+
+
+2016/680 or Article 3, point (5) of Regulation (EU) 2018/1725. To ensure traceability
+
+
+and transparency, a provider who considers that an AI system is not high-risk on the
+
+
+basis of the conditions referred to above should draw up documentation of the
+
+
+assessment before that system is placed on the market or put into service and should
+
+
+provide that documentation to national competent authorities upon request. Such a
+
+
+provider should be obliged to register the AI system in the EU database established
+
+
+under this Regulation. With a view to providing further guidance for the practical
+
+
+implementation of the conditions under which the AI systems listed in an annex to this
+
+
+Regulation are, on an exceptional basis, non-high-risk, the Commission should, after
+
+
+consulting the Board, provide guidelines specifying that practical implementation,
+
+
+completed by a comprehensive list of practical examples of use cases of AI systems that
+
+
+are high-risk and use cases that are not.
+
+
+
+
+
