@@ -2,7 +2,6 @@ from dotenv import load_dotenv
 import os
 from langchain import hub
 from langchain_chroma import Chroma
-from langchain_community.document_loaders import WebBaseLoader
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -10,6 +9,10 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_mistralai import ChatMistralAI
 from langchain.prompts import PromptTemplate
+
+from langchain_core.messages import HumanMessage, AIMessage
+from langgraph.checkpoint.memory import MemorySaver
+from langgraph.graph import START, MessagesState, StateGraph
 
 import streamlit as st
 
@@ -52,6 +55,19 @@ rag_chain = (
     | StrOutputParser()
 )
 
+# Graph
+workflow = StateGraph(state_schema=MessagesState)
+
+# Verificar se o nó "model" já foi adicionado
+if "model" not in workflow.nodes:
+    workflow.add_node("model")
+    
+workflow.add_edge(START,"model")
+memory = MemorySaver()
+app = workflow.compile(checkpointer=memory) 
+
+config = {"configuration": {"thread_id":"1"}}
+
 # Configuração da interface Streamlit
 st.title("Ask our Chatbot")
 
@@ -71,10 +87,19 @@ if user_prompt:
     st.chat_message('user').markdown(user_prompt)
     # Store the user prompt in state
     st.session_state.messages.append({'role': 'user', 'content': user_prompt})
+
+    # Atualizar o workflow com a mensagem do usuário
+    workflow.add_edge("model", HumanMessage(content=user_prompt))
+
     # Send the prompt to the LLM
-    response = rag_chain.invoke(user_prompt)
+    response = rag_chain.invoke(user_prompt, config)
+
     # Display the model's response
     st.chat_message('assistant').markdown(response)
 
     # Store the model's response in the state
     st.session_state.messages.append({'role': 'assistant', 'content': response})
+
+    # Atualizar o workflow com a resposta do assistente
+    workflow.add_edge("model", AIMessage(content=response))
+    
