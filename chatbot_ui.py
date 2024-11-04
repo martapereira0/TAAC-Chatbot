@@ -2,21 +2,13 @@ from dotenv import load_dotenv
 import os
 import shutil
 import tempfile
-from langchain import hub
 from langchain_chroma import Chroma
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough, RunnableWithMessageHistory
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_mistralai import ChatMistralAI
 from langchain.prompts import PromptTemplate
-from langchain_core.messages import AIMessage
-from langgraph.graph.message import add_messages
-from langgraph.checkpoint.memory import MemorySaver
-from langgraph.graph import START, StateGraph
-from typing_extensions import TypedDict
-from typing import Annotated
+
 import streamlit as st
 
 # Carregar variáveis de ambiente
@@ -76,9 +68,13 @@ def retrieve_and_generate_response(query, vectorstore):
     else: 
         previous_responses = previous_text = last_response = st.session_state.history[-1] if st.session_state.history else "No previous answer available."
         
-    print("previous_responses:", previous_responses)
-    print("previous_text:", previous_text)
-    print("last_response:", last_response)
+    print("\n--- Previous Responses ---")
+    print(previous_responses)
+
+    print("\n--- Previous Text ---")
+    print(previous_text)
+    print("\n--- Last Response ---")
+    print(last_response)
 
     # Formatar prompt
     prompt_template = PromptTemplate(
@@ -86,13 +82,13 @@ def retrieve_and_generate_response(query, vectorstore):
         template="Previous Answers:\n{previous}\n\nLast Answer:\n{last}\n\nContext:\n{context}\n\nQuestion: {question}\nAnswer:"
     )
     prompt = prompt_template.format(previous=previous_text, last=last_response, context=context, question=query)
-    print("PROMPT:", prompt, end="\n\n")
+    print("\n--- Formatted Prompt ---")
+    print(prompt, end="\n\n")
     # Gerar resposta e atualizar histórico
     response = llm.invoke(prompt)
 
     
     st.session_state.history.append(response.content)
-    print("st.session_state.history:", st.session_state.history, end="\n\n\n\n")
 
     if len(st.session_state.history) > max_history_length:
         st.session_state.history.pop(0)
